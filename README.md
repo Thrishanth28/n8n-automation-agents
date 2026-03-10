@@ -22,12 +22,7 @@ Every day at **10:00 AM**, this workflow automatically:
 ## 📸 Workflow Overview
 
 ```
-Schedule Trigger (10AM)
-        │
-        ├──► AI News Feed (aibusiness.com RSS)  ──►┐
-        ├──► Tech News Feed (techcrunch.com RSS) ──►├──► Merge ──► Aggregate ──► Gemini LLM ──► Gmail
-        └──► SerpAPI (AI Events in India)        ──►┘
-```
+The image that i given in the below
 
 ---
 
